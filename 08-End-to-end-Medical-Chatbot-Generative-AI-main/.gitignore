@@ -1,0 +1,5 @@
+data/
+.env
+Generative_AI_Project.egg-info/
+__pycache__/
+.github
